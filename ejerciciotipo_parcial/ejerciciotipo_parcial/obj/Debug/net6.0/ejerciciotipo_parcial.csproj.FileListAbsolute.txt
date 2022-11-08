@@ -1,0 +1,15 @@
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\bin\Debug\net6.0\ejerciciotipo_parcial.exe
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\bin\Debug\net6.0\ejerciciotipo_parcial.deps.json
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\bin\Debug\net6.0\ejerciciotipo_parcial.runtimeconfig.json
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\bin\Debug\net6.0\ejerciciotipo_parcial.dll
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\bin\Debug\net6.0\ejerciciotipo_parcial.pdb
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\obj\Debug\net6.0\ejerciciotipo_parcial.csproj.AssemblyReference.cache
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\obj\Debug\net6.0\ejerciciotipo_parcial.GeneratedMSBuildEditorConfig.editorconfig
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\obj\Debug\net6.0\ejerciciotipo_parcial.AssemblyInfoInputs.cache
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\obj\Debug\net6.0\ejerciciotipo_parcial.AssemblyInfo.cs
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\obj\Debug\net6.0\ejerciciotipo_parcial.csproj.CoreCompileInputs.cache
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\obj\Debug\net6.0\ejerciciotipo_parcial.dll
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\obj\Debug\net6.0\refint\ejerciciotipo_parcial.dll
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\obj\Debug\net6.0\ejerciciotipo_parcial.pdb
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\obj\Debug\net6.0\ejerciciotipo_parcial.genruntimeconfig.cache
+F:\TUP\ejerciciotipo_parcial\ejerciciotipo_parcial\obj\Debug\net6.0\ref\ejerciciotipo_parcial.dll
